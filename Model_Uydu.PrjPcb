@@ -108,7 +108,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VMTARGTH
 
 [Document5]
-DocumentPath=PcbLib1.PcbLib
+DocumentPath=Components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -125,7 +125,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OOCKACVI
 
 [Document6]
-DocumentPath=Schlib1.SchLib
+DocumentPath=Components.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
