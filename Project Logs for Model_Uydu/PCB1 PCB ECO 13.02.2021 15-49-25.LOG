@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Sheet1 Member=*
+Change Component Footprint: Designator=U? Old Footprint=FP-ABX00027-MFG New Footprint=ARDUINO NANO v3
+Change Component Comment : Designator=U? Old Comment=ABX00027 New Comment=Arduino Nano
+Change Managed Component Library Link : Designator=U? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9F19F534-079A-429A-9375-6EB118B4027C New ItemGUID= Old RevisionGUID=E3DEE718-8275-4FBF-A843-D2A98956D352 New RevisionGUID=
+Change component parameters: Designator = "U?" ("U?"); Footprint = "FP-ABX00027-MFG"; UniqueID = "\EPYJOOCF" ("\EPYJOOCF")

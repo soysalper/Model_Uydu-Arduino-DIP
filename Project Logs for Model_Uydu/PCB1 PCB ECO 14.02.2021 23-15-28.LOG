@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=T1-1
+Removed Pin From Net: NetName=NetS5_3 Pin=U2-2
+Removed Pin From Net: NetName=NetS5_2 Pin=U2-3
+Added Component: Designator=S6(Switch)
+Added Pin To Net: NetName=NetC1_1 Pin=S6-2
+Added Pin To Net: NetName=NetS6_1 Pin=S6-1
+Added Pin To Net: NetName=NetS6_1 Pin=T1-1
+Added Net: Name=NetS6_1
+Added Pin To Net: NetName=NetU1_26 Pin=U1-26
+Added Pin To Net: NetName=NetU1_26 Pin=U2-3
+Added Net: Name=NetU1_26
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Pin To Net: NetName=NetU1_27 Pin=U2-2
+Added Net: Name=NetU1_27
+Added Member To Class: ClassName=Sheet1 Member=Component S6 Switch

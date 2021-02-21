@@ -1,0 +1,11 @@
+Added Component: Designator=V1(LM7805 Voltage Regulator)
+Added Pin To Net: NetName=+5 Pin=U1-12
+Added Pin To Net: NetName=+5 Pin=V1-3
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=V1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetS5_3 Pin=S5-3
+Added Pin To Net: NetName=NetS5_3 Pin=U1-17
+Added Net: Name=NetS5_3
+Added Member To Class: ClassName=Sheet1 Member=Component V1 LM7805

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S3
+Added Component: Designator=S4(SD Card Module)
+Added Member To Class: ClassName=Sheet1 Member=Component S4 SD Card Module
+Added Room: Name=Sheet1

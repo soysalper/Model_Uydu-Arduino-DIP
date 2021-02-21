@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Component: Designator=R1(LM7805 Voltage Regulator)
+Added Member To Class: ClassName=Sheet1 Member=Component R1 LM805
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res2

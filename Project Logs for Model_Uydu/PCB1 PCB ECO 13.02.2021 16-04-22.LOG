@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Member To Class: ClassName=Sheet1 Member=Component U1 Arduino Nano

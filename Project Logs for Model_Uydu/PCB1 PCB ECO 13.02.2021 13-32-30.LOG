@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Sheet1 Member=HDR?
+Added Component: Designator=S?(MPU6050)
+Added Member To Class: ClassName=Sheet1 Member=Component S? MPU6050

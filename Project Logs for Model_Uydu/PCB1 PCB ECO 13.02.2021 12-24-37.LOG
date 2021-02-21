@@ -1,0 +1,7 @@
+Added Component: Designator=HDR?(Female Header 1x8)
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=GND Pin=U?-19
+Added Net: Name=GND
+Added Pin To Net: NetName=NetU?_15 Pin=U?-15
+Added Net: Name=NetU?_15
+Added Member To Class: ClassName=Sheet1 Member=Component HDR? Female Header 1x8
