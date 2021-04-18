@@ -1,0 +1,13 @@
+Added Component: Designator=SD?(HRS-DM1AA-SF-PEJ(21)_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/11755/0900766b80634f94-11755125.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Oct-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.hirose.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.098in"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "RightAngleSocket/Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Housing"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MainSheet Member=Component SD? DM1AA-SF-PEJ(21)
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=300mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=300mil
